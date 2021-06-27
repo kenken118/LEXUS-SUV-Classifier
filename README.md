@@ -1,5 +1,3 @@
-![image0 (1) (1)](https://user-images.githubusercontent.com/70054082/123541147-eb177900-d77d-11eb-84ec-be1fb5c1b66d.jpeg)![image4](https://user-images.githubusercontent.com/70054082/123541185-1d28db00-d77e-11eb-9705-7d295f90c04f.jpeg)
-
 # LEXUS SUV Classifier 
  
  # Overview
@@ -7,4 +5,4 @@
 Target model : LEXUS-UX, LEXUS-NX, LEXUS-RX
 With the LEXUS emblem on the steering wheel reflected, the vehicle type is mainly classified according to the characteristics of the Instrument Panel.This tool is excluded for classification by specifications such as the destination, interior grade, etc.
  
-![303735](https://user-images.githubusercontent.com/70054082/123541293-bbb53c00-d77e-11eb-8785-4958026a1b77.jpg)
+![img_e1ecdb97a0b7a061881346c2c1b12467316165](https://user-images.githubusercontent.com/70054082/123542242-7f380f00-d783-11eb-8f33-cbece4e859d5.png)

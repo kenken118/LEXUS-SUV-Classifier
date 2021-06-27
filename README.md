@@ -12,7 +12,7 @@ Using my NX as an example, I will show the target image to be learned.
 ![image4 (2)](https://user-images.githubusercontent.com/70054082/123542750-4b121d80-d786-11eb-83bc-86de976e1a8f.png)
 
 # Dependency
-Python 3.7.7
-numpy 1.17.0
-keras 2.3.1
-keras preprocessing 1.1.2
+Python 3.7.7<br>
+numpy 1.17.0<br>
+keras 2.3.1<br>
+keras preprocessing 1.1.2<br>

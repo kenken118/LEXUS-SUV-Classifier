@@ -7,7 +7,8 @@ With the LEXUS emblem on the steering wheel reflected, the vehicle type is mainl
  
 ![img_e1ecdb97a0b7a061881346c2c1b12467316165](https://user-images.githubusercontent.com/70054082/123542242-7f380f00-d783-11eb-8f33-cbece4e859d5.png)
 
-# Target image
+# Target Image
 Using my NX as an example, I will show the target image to be learned.
-![image4 (1)](https://user-images.githubusercontent.com/70054082/123542637-ae4f8000-d785-11eb-9d1e-5a0cc8c9690e.png)
+![image4 (2)](https://user-images.githubusercontent.com/70054082/123542750-4b121d80-d786-11eb-83bc-86de976e1a8f.png)
+
 
